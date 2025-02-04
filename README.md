@@ -75,7 +75,10 @@
 
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=Rafahm03&icon=3&color=6)](https://visitcount.itsvg.in)
+<p align="center">
+  <!-- Contador de visitas del perfil -->
+  <img src="https://komarev.com/ghpvc/?username=Rafahm03&label=Visitas%20al%20perfil&color=FF4500&style=flat-square" alt="Rafahm03" height="25px" width="180px"/>
+</p>
   
 </div>
 <br/>
