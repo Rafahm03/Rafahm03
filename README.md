@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Developer" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9528boo9z26ur7yt10le9gt307pazfvqdwrhpbtqbyb&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="80%" height="50%" />
+  <img alt="Developer" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9528boo9z26ur7yt10le9gt307pazfvqdwrhpbtqbyb&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="60%" height="50%" />
 </div>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2 align="center">Hola a todos, Soy Rafa 👋😁</h2>
@@ -26,7 +26,6 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
