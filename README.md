@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Developer" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9528boo9z26ur7yt10le9gt307pazfvqdwrhpbtqbyb&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="60%" height="50%" />
+  <img alt="Developer" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9528boo9z26ur7yt10le9gt307pazfvqdwrhpbtqbyb&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="60%" height="100%" />
 </div>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2 align="center">Hola a todos, Soy Rafa 👋😁</h2>
