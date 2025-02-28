@@ -64,7 +64,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rafa-hernandez-melendez-b57581256">
+<a href="www.linkedin.com/in/rafa-hernández-meléndez-b57581256">
   <img src="https://img.shields.io/badge/-Rafa%20Hernandez%20Melendez-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="mailto:rafahernandezmelendez@gmail.com">
