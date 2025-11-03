@@ -16,7 +16,7 @@
 ❇️ &nbsp;He realizado el prototipado de aplicaciones con Figma.\
 💭 &nbsp;Tengo conocimientos básicos de contenedores con Docker.\
 ✉️ &nbsp;Puedes enviarme cualquier pregunta al correo: rafahernandezmelendez@gmail.com Intentaré responder lo más breve posible.\
-📄 &nbsp;Si estas más interesado te dejo aquí mi [MyCV](https://acortar.link/gZpAck) con más detalles sobre mi.
+📄 &nbsp;Si estas más interesado te dejo aquí mi [MyCV](https://www.canva.com/design/DAG2nqU_yJs/tYIy8tMbTfFFvDK0Xu5klQ/view?utm_content=DAG2nqU_yJs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5e64734d3d) con más detalles sobre mi.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <br/>
