@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/search/Rafahm03/Rafahm03/master?style=for-the-badge&logo=github&label=Commits%20Totales" alt="Commits" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafahm03&theme=algolia" alt="GitHub Profile Details" />
 </p>
 
 <br/>
