@@ -53,9 +53,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rafahm03&theme=radical&row=1&column=7&no-bg=true" alt="GitHub Profile Trophies" />
-  </a>
+  <img src="https://img.shields.io/github/search/Rafahm03/Rafahm03/master?style=for-the-badge&logo=github&label=Commits%20Totales" alt="Commits" />
 </p>
 
 <br/>
@@ -73,7 +71,6 @@
 
 <div align="center">
 <p align="center">
-  <!-- Contador de visitas del perfil -->
   <img src="https://komarev.com/ghpvc/?username=Rafahm03&label=Visitas%20al%20perfil&color=FF4500&style=flat-square" alt="Rafahm03" height="25px" width="180px"/>
 </p>
 </div>
