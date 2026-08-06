@@ -2,15 +2,14 @@
   <img alt="Developer" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9528boo9z26ur7yt10le9gt307pazfvqdwrhpbtqbyb&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="60%" height="100%" />
 </div>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2 align="center">Hola a todos, Soy Rafa 👋😁</h2>
-
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="center"/><h2 align="center">Hola a todos, Soy Rafa 👋😁</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Mi lenguaje de programación principal es Java, aunque también sé Javascript/Typescript y algo de Python.\
+💡 &nbsp;Mi lenguaje de programación principal es Java, aunque también sé Javascript(En particular la librería React)/Typescript y algo de Python.\
 🎓 &nbsp;Los principales frameworks o tecnologías con los que he trabajado son Spring Boot para el Backend y Angular para el frontend.\
-🌱 &nbsp;Como es lógico, también tengo conocimientos de  HTML5 y CSS3.\
-✍️ &nbsp; En el caso de aplicaciones móviles, he trabajado con Flutter para el desarrollo de aplicaciones multiplataforma.\
+🌱 &nbsp;Como es lógico, también tengo conocimientos de HTML5 y CSS3.\
+✍️ &nbsp;En el caso de aplicaciones móviles, he trabajado con Flutter para el desarrollo de aplicaciones multiplataforma.\
 💬 &nbsp;Conozco el lenguaje SQL, utilizando principalmente Postgresql como SGBDR.\
 📑 &nbsp;A nivel de metodología, he trabajado en equipo siguiendo principios ágiles.\
 ❇️ &nbsp;He realizado el prototipado de aplicaciones con Figma.\
@@ -53,18 +52,18 @@
 </a>
 </p>
 
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Rafahm03&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rafahm03&theme=radical&row=1&column=7&no-bg=true" alt="GitHub Profile Trophies" />
+  </a>
+</p>
 
 <br/>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="www.linkedin.com/in/rafa-hernández-meléndez-b57581256">
+<a href="https://www.linkedin.com/in/rafa-hern%C3%A1ndez-mel%C3%A9ndez-b57581256">
   <img src="https://img.shields.io/badge/-Rafa%20Hernandez%20Melendez-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="mailto:rafahernandezmelendez@gmail.com">
@@ -73,14 +72,11 @@
 </p>
 
 <div align="center">
-  
 <p align="center">
   <!-- Contador de visitas del perfil -->
   <img src="https://komarev.com/ghpvc/?username=Rafahm03&label=Visitas%20al%20perfil&color=FF4500&style=flat-square" alt="Rafahm03" height="25px" width="180px"/>
 </p>
-  
 </div>
+
 <br/>
 <p align="center">Gracias por visitar mi perfil 😊</p>
-
-
